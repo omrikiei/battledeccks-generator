@@ -1,0 +1,7150 @@
+{
+  "data": [
+    {
+      "adjective": {
+        "value": "different",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "used",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "important",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "every",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "large",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "popular",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "able",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "basic",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "various",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "difficult",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "several",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "united",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "historical",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "hot",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "useful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "mental",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "scared",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "additional",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "emotional",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "old",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "political",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "similar",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "financial",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "medical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "traditional",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "federal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "entire",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "actual",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "significant",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "successful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "electrical",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "pregnant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "intelligent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "interesting",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "poor",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "happy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "responsible",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "cute",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "helpful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "recent",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "willing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nice",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "wonderful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "serious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "huge",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "rare",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "technical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "typical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "competitive",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "critical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "electronic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "immediate",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "aware",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "educational",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "environmental",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "global",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "relevant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "accurate",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "capable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "efficient",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "powerful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "foreign",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hungry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "practical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "psychological",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "severe",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "suitable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "numerous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sufficient",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "unusual",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "consistent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "cultural",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "existing",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "famous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "pure",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "afraid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "obvious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "careful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "latter",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "obviously",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "unhappy",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "acceptable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "boring",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "distinct",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "eastern",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "logical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "reasonable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "strict",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "successfully",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "administrative",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "civil",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "former",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "massive",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "southern",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unfair",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "visible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "alive",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "desperate",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "exciting",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "friendly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lucky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "realistic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "sorry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unlikely",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "anxious",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "comprehensive",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "curious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "impressive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "informal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "inner",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "pleasant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sexual",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "terrible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "unable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "weak",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "wooden",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "asleep",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "confident",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "conscious",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "decent",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "guilty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lonely",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "mad",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "nervous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "odd",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "remarkable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "substantial",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "suspicious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tall",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tiny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "garrulous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "unsuitable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "black",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "upbeat",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "draconian",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "limping",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unused",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "level",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "annoying",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "amazing",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "workable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "squeamish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "high-pitched",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ethereal",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "screeching",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "rural",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "third",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "macabre",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "paltry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "thinkable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "melodic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "foregoing",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "aboard",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "spiffy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "dry",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "hushed",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "chunky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "testy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "innocent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "safe",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "hateful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "instinctive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "absorbed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "strange",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "condemned",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "towering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "utter",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "thin",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "like",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "discreet",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "envious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "savory",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "vengeful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "moaning",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unruly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ad hoc",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "voracious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tasty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "plant",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "narrow",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "picayune",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "heavy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "flowery",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "knowing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "abounding",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "shiny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "puny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "mean",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "invincible",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "ancient",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "waiting",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "obedient",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "hypnotic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "fortunate",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "selfish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nondescript",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "endurable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "agreeable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "vague",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "brave",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "glossy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "spiritual",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "vulgar",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "enchanted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "nutritious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "rambunctious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wise",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "concerned",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "daffy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "assorted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "thankful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "chilly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "trite",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "nonstop",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "mixed",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "eight",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "enchanting",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "next",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "defeated",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "long",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "zesty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "teeny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "humdrum",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "doubtful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "blue-eyed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hilarious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "fragile",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "vigorous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "depressed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "spooky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ablaze",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "boorish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "abusive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "womanly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wrathful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "early",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "smoggy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "grieving",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "squealing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "descriptive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "old-fashioned",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "squalid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "racial",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "redundant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "domineering",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "habitual",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "righteous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "immense",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "placid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "keen",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "astonishing",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "light",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "adorable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "abandoned",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "steadfast",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "roomy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "recondite",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "alleged",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "stiff",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "ludicrous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "unadvised",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "zonked",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "second",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "decorous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "handsome",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lame",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "handy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "female",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "acidic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "obsolete",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "belligerent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "rapid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "precious",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "bite-sized",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nauseating",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "bored",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "arrogant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "mellow",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "torpid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wretched",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "grey",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "vacuous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "joyous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "troubled",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "bent",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "elite",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "bawdy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "valuable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "fanatical",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "trashy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "special",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "simple",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fixed",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "wry",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "supreme",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "excellent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "half",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "omniscient",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sordid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "five",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "abashed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lying",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "premium",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dynamic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tired",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wanting",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "piquant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "apathetic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "exotic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "private",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "four",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "closed",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "thick",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "verdant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sleepy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "naughty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unarmed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "obeisant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "statuesque",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "parallel",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "frightened",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "victorious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "flat",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tasteless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "familiar",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "best",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tiresome",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "talented",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "maniacal",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "cuddly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hard",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "gaudy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "oafish",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "callous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sore",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "shrill",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "gratis",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "relieved",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "changeable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "regular",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "stupendous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wealthy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "splendid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "gaping",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "elfin",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "disturbed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "snotty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "perpetual",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "unbecoming",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "cynical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "grateful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wet",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "beautiful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tough",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "childlike",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hurt",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "bright",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "quaint",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "telling",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "opposite",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "plausible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "defective",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "didactic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "macho",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "versed",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "sparkling",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jobless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cooing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "actually",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "robust",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "irritating",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "ready",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "majestic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tenuous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "present",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "faded",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "venomous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "chief",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "loutish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "dear",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "dizzy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fierce",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "even",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "alike",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "onerous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "red",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "extra-small",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "teeny-tiny",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "psychotic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wasteful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "secret",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fast",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "stereotyped",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "mammoth",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "befitting",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "alluring",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "jazzy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "subdued",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wrong",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "cheap",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "boundless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "homely",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "puzzled",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "gifted",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "two",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "succinct",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "foamy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "dashing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "marvelous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "brash",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "ubiquitous",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "striped",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "absent",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tame",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "lethal",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "swift",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "pumped",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tested",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "receptive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "uneven",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "good",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "awful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "many",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "silent",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "glorious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "rotten",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "shivering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "deadpan",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "natural",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "enormous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "efficacious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "blushing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "subsequent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "overwrought",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "feeble",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "abhorrent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "violet",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "berserk",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "enthusiastic",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "bizarre",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "moldy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "smiling",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hulking",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "far",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "loving",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "amusing",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wiggly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "icy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tedious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "aback",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "kindly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hollow",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "soggy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "broad",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "ambiguous",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "ignorant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "straight",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "whispering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dreary",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "scarce",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "sincere",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "smart",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "foolish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sticky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "therapeutic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "accessible",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "delicious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "jittery",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "grubby",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unwritten",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "awesome",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "thirsty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "scattered",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "better",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "exclusive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "disagreeable",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "literate",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sedate",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "laughable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wakeful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lyrical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "curved",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "unbiased",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "roasted",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "purple",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "smooth",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "wandering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "military",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "spiteful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fallacious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "proud",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "overt",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "attractive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "abundant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "boiling",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tan",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "ultra",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "exultant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "windy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "aloof",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "shut",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "rich",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "aberrant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "poised",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "worthless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "stupid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "optimal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "obsequious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "symptomatic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "quizzical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sour",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "well-made",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "neighborly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "resonant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "incredible",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "peaceful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "auspicious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "brief",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "merciful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hissing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wiry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "rigid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "little",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "daily",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "acid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sturdy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "vagabond",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dead",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "bumpy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unequal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ragged",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "muddled",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "repulsive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "right",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "alcoholic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "filthy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "detailed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "shaggy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "somber",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "dazzling",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tremendous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "organic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "melted",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "spicy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "defiant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "male",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "stale",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "grandiose",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "quirky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "murky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "romantic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "giddy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hapless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "kaput",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "guiltless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "scintillating",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "coherent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "equal",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "noxious",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sophisticated",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "plain",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tender",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "rightful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "stingy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sneaky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cloistered",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "voiceless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "productive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "clean",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "fearless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "smelly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "flaky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "disastrous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "neat",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "glamorous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "orange",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "grumpy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "yellow",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "groovy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "delirious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "needy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hallowed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "magenta",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "bashful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "frequent",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "puzzling",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "shocking",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lean",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "hanging",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "truculent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wicked",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "rough",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "highfalutin",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "useless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "zippy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "marked",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "absorbing",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "knowledgeable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "ajar",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "puffy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jumpy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "silky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unique",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "untidy",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "halting",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wary",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "charming",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "loose",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "flimsy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sweet",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "flashy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "well-off",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "erect",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "skillful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "few",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "damaged",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ambitious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "mushy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "periodic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "penitent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "juvenile",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "rebel",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "grotesque",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tasteful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "scrawny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tearful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "disgusting",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "unequaled",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "nebulous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "brown",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "electric",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "uninterested",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "perfect",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "deep",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "spurious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "shaky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "gentle",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "outgoing",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "numberless",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "seemly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "small",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "great",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "woebegone",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "worried",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ugliest",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "freezing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "well-to-do",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sweltering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "bustling",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "uppity",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "flawless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "quiet",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "public",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unaccountable",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "nasty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "outrageous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "careless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "clear",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "sad",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "brawny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "animated",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "ceaseless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jealous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "uncovered",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "plastic",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tight",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "insidious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "gullible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "rainy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "abrasive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "separate",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "bewildered",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "general",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "miniature",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "godly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "flippant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "green",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "elegant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "super",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "internal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "economic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "stimulating",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "prickly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "horrible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sharp",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tacit",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "woozy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "learned",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "automatic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "quickest",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "crabby",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "divergent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "adaptable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "disgusted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dangerous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "cultured",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "three",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "sick",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "cloudy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "noisy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "earthy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "psychedelic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "slow",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "near",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "brainy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "eager",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jagged",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "minor",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "curly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "witty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nonchalant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "possible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hideous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "miscreant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "shallow",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "reminiscent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "wide",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "maddening",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "quick",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "unkempt",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "pastoral",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "painstaking",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "wild",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "scandalous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "lopsided",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "broken",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "icky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "crazy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "infamous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dusty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lush",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "annoyed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "furtive",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tawdry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "magical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "mysterious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "second-hand",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "panoramic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "frail",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "oval",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ten",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "agonizing",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "gruesome",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "giant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "noiseless",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "lewd",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "measly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "far-flung",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "disillusioned",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "mindless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fine",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "inexpensive",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "unnatural",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "scary",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "yielding",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fearful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "dark",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "cruel",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "parsimonious",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "meek",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "rude",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "harmonious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "axiomatic",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "drunk",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "questionable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "real",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "soft",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tidy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "drab",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "grouchy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "aquatic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "pink",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "imperfect",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dull",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "finicky",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "left",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "erratic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "same",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "momentous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "abiding",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "gorgeous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "slippery",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "cheerful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "quixotic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "sable",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "synonymous",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "threatening",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "creepy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "plucky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "warm",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "polite",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "high",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "innate",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "youthful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cluttered",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "embarrassed",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "well-groomed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "offbeat",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tense",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "angry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "absurd",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nostalgic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "demonic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hesitant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "new",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "homeless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sassy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ruddy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "craven",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "spotty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "material",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "white",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "mighty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "toothsome",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "possessive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "mature",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fresh",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "cumbersome",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "stormy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "null",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "complex",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "feigned",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "fantastic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "spectacular",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "dirty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "obscene",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "burly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "incompetent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "faulty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ill-informed",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "long-term",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "imminent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "bouncy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "capricious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "petite",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lackadaisical",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "steady",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "pricey",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "hospitable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "lively",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "crowded",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nappy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "curvy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "amused",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "whole",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "vivacious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "addicted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "aromatic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "physical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "heavenly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "pretty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "square",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "frantic",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "undesirable",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "damp",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "magnificent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "fancy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unknown",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "faint",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "slimy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "deranged",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nosy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fascinated",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "entertaining",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "juicy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "dysfunctional",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "harsh",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "ritzy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "honorable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "big",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "fluffy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wholesale",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "profuse",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fumbling",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "whimsical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ratty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "skinny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tangy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "complete",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "simplistic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ugly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "devilish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "graceful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "busy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "amuck",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "chubby",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cooperative",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "kind",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "terrific",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "thoughtful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "malicious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "exuberant",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "last",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "short",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "materialistic",
+        "numSyllables": 6
+      }
+    },
+    {
+      "adjective": {
+        "value": "delightful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "yummy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ruthless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "humorous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ripe",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "tart",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "sulky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "elderly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ashamed",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "open",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cold",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "abject",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "itchy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "unhealthy",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "lavish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "guttural",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "meaty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fat",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "black-and-white",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "educated",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "dapper",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "weary",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "six",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "upset",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "chemical",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "deeply",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "bloody",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "deserted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "oceanic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "heady",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "uttermost",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ill-fated",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "labored",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "true",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "unwieldy",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "eminent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "overjoyed",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "uptight",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "certain",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "young",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "cut",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "scientific",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "gray",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "solid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "silly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "loud",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "average",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "mundane",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "courageous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "obtainable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "resolute",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "superb",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "quack",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "available",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "cool",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "abstracted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "greedy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "direful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wide-eyed",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "false",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "lumpy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "naive",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "eatable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "impolite",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "energetic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "aboriginal",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "extra-large",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "slim",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "encouraging",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "married",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "bad",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "spotless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lazy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jumbled",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "furry",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "abnormal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "spiky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "longing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wistful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "satisfying",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "debonair",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ahead",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "determined",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "calculating",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "past",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "late",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "shy",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "waggish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "ordinary",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "modern",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nippy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lacking",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "painful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "thoughtless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nutty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "steep",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "illegal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "future",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "pathetic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "awake",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "inconclusive",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "purring",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "helpless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "utopian",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "zany",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "salty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "selective",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "quarrelsome",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ill",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "rhetorical",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "strong",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "truthful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "billowy",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "spotted",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "previous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "confused",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "gigantic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "obese",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "easy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "elated",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "warlike",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jolly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "swanky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "glistening",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "cowardly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "mute",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "gusty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "heartbreaking",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hard-to-find",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "dispensable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "incandescent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "festive",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "madly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "first",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "colorful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tightfisted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "equable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "pale",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "irate",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "crooked",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "accidental",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "full",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "fertile",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "inquisitive",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "mountainous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "living",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "obnoxious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "nimble",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "nine",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "dependent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tricky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "delicate",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "volatile",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "staking",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "known",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "vast",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "coordinated",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "fretful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "milky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "faithful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "adhesive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "one",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "phobic",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "aspiring",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "futuristic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "damaging",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "earsplitting",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "secretive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "zealous",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "guarded",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "reflective",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "alert",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "barbarous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "watery",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "adjoining",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "normal",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "adventurous",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "classy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "permissible",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "nifty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "holistic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "chivalrous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "standing",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "forgetful",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "beneficial",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "functional",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hellish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "jaded",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "raspy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "combative",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hurried",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "acrid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cagey",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "elastic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "ossified",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "excited",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "likeable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "luxuriant",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "rampant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "evasive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "knotty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "healthy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sloppy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "thundering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "fabulous",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "fluttering",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "temporary",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "messy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "overrated",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "common",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "blue",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "rustic",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "cautious",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "wacky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "superficial",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "dramatic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "probable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "acoustic",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "observant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "motionless",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "necessary",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "illustrious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "greasy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "glib",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "husky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "decisive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "aggressive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "low",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "handsomely",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "clumsy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "parched",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "royal",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "diligent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "fuzzy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "violent",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "breakable",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "clever",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "goofy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "lowly",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "abaft",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "snobbish",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "makeshift",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "protective",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "comfortable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "taboo",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "tranquil",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "gamy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "fair",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "lamentable",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "mere",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "round",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "gabby",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "clammy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "bitter",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "outstanding",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "funny",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "panicky",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "judicious",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "overconfident",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "tangible",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "abortive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "understood",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "legal",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "empty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "idiotic",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "imaginary",
+        "numSyllables": 5
+      }
+    },
+    {
+      "adjective": {
+        "value": "caring",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "imported",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "pushy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "breezy",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "colossal",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "unsightly",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "abrupt",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "rabid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "misty",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "free",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "evanescent",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "gleaming",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "languid",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "calm",
+        "numSyllables": 1
+      }
+    },
+    {
+      "adjective": {
+        "value": "impartial",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "hysterical",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "expensive",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "kindhearted",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "needless",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "industrious",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "lovely",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "flagrant",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "sudden",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "deafening",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "impossible",
+        "numSyllables": 4
+      }
+    },
+    {
+      "adjective": {
+        "value": "frightening",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "tacky",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "adamant",
+        "numSyllables": 3
+      }
+    },
+    {
+      "adjective": {
+        "value": "gainful",
+        "numSyllables": 2
+      }
+    },
+    {
+      "adjective": {
+        "value": "pointless",
+        "numSyllables": 2
+      }
+    }
+  ]
+}
