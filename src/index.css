@@ -39,3 +39,16 @@ code {
   position: absolute;
   top: 90%;
 }
+
+.slide-num {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Lucida Sans", "Noto Sans", sans-serif;
+  font-size:200%;
+  width: 100%;
+  max-font-size: 10rem;
+  color: black;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  position: absolute;
+  top: 5%;
+}
