@@ -1,5 +1,10 @@
 import {RandomWordGeneratorClient} from "../utils/random-generator-client";
 import React, {Component} from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Button from 'react-bootstrap/Button';
+import InputGroup from 'react-bootstrap/InputGroup';
+import FormControl from 'react-bootstrap/FormControl';
+import Card from 'react-bootstrap/Card'
 
 const randomGeneratorClient = new RandomWordGeneratorClient()
 
@@ -19,6 +24,7 @@ type GameState = {
     seconds: number
     slideNum: number
     running: boolean
+    started: boolean
 }
 
 export class Game extends Component<any, GameState> {
@@ -39,6 +45,7 @@ export class Game extends Component<any, GameState> {
             seconds: DEFAULT_CONFIG.secondsPerSlide,
             slideNum: 0,
             running: true,
+            started: false,
         })
     }
 
@@ -85,16 +92,37 @@ export class Game extends Component<any, GameState> {
         }
     }
 
+    init = <div>
+        <h1>Welcome to battledecks</h1>
+        <p>Battledecks — also called Powerpoint Karaoke — is an improv game that works well at conferences.
+            Contestants make up presentations using slide decks they have never seen before. That means your goal is
+            to make the audience laugh using two props: slide decks and willing participants. </p>
+        <Card>
+            
+        </Card>
+        <InputGroup className='mb-3'>
+            <InputGroup.Text>{this.state.seconds}</InputGroup.Text>
+        </InputGroup>
+        <InputGroup size="lg">
+            <InputGroup.Text id="inputGroup-sizing-lg">Large</InputGroup.Text>
+            <FormControl aria-label="Large" aria-describedby="inputGroup-sizing-sm"/>
+        </InputGroup>
+        <Button>Start</Button>
+    </div>
+
     render() {
         const remainingSecondsColor = this.state.seconds > 3 ? 'white' : 'red';
+        const runningGame = <div>
+            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%'}} onClick={this.toggle}/>
+            {this.state.slideNum % 4 < 3 && <div className="slide-title">{this.state.title}</div>}
+            <div className="remaining-seconds" style={
+                {'WebkitTextFillColor': remainingSecondsColor}
+            }>{this.state.seconds}</div>
+        </div>
         return (
             <div className="App">
                 <header className="App-header">
-                    <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%'}} onClick={this.toggle}/>
-                    {this.state.slideNum % 4 < 3 && <div className="slide-title">{this.state.title}</div>}
-                    <div className="remaining-seconds" style={
-                        {'WebkitTextFillColor': remainingSecondsColor}
-                    }>{this.state.seconds}</div>
+                    {!this.state.started ? this.init : runningGame}
                 </header>
             </div>)
     }
