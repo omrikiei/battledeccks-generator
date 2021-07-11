@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/battledecks-generator/static/css/main.d74d67c5.chunk.css",
-    "main.js": "/battledecks-generator/static/js/main.3e973753.chunk.js",
-    "main.js.map": "/battledecks-generator/static/js/main.3e973753.chunk.js.map",
+    "main.js": "/battledecks-generator/static/js/main.5aa7655f.chunk.js",
+    "main.js.map": "/battledecks-generator/static/js/main.5aa7655f.chunk.js.map",
     "runtime-main.js": "/battledecks-generator/static/js/runtime-main.25eff8f0.js",
     "runtime-main.js.map": "/battledecks-generator/static/js/runtime-main.25eff8f0.js.map",
     "static/css/2.150d169a.chunk.css": "/battledecks-generator/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.b28395da.chunk.js",
     "static/css/main.d74d67c5.chunk.css",
-    "static/js/main.3e973753.chunk.js"
+    "static/js/main.5aa7655f.chunk.js"
   ]
 }
