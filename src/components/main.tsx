@@ -1,4 +1,4 @@
-import {RandomWordGenerator} from "../utils/random-generator";
+import {RandomWordGenerator, randomIndex} from "../utils/random-generator";
 import React, {Component} from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
@@ -83,9 +83,16 @@ export class Game extends Component<any, GameState> {
 
     run() {
         const {config} = this.state
+        const potentialTitleSuffixes = [
+            ' - lessons from real life',
+            ' - my testament',
+            ', and why you should care about it',
+            '.. the untold truth',
+        ]
+        const titleSuffix = potentialTitleSuffixes[randomIndex(potentialTitleSuffixes)]
         this.setState({
             started: true,
-            title: randomGeneratorClient.randomDeckTitle() + ' - a ' + config.slidesPerDeck + ' slides presentation',
+            title: randomGeneratorClient.randomDeckTitle() + titleSuffix,
             imgURL: '',
             slideNum: 0,
             running: true
@@ -181,7 +188,7 @@ export class Game extends Component<any, GameState> {
             <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%'}} onClick={this.toggle}/>}
             {this.state.slideNum % 4 < 3 &&
             <div className="slide-title" style={
-                {'fontSize': this.state.slideNum === 0 ? '13rem' : '12.5rem', 'top': this.state.slideNum === 0 ? '0' : '10%' }}>{this.state.title}</div>}
+                {'fontSize': this.state.slideNum === 0 ? '12.7rem' : '12.5rem', 'top': this.state.slideNum === 0 ? '0' : '10%' }}>{this.state.title}</div>}
             <div className="remaining-seconds" style={
                 {'WebkitTextFillColor': remainingSecondsColor}
             }>{this.state.seconds}</div>

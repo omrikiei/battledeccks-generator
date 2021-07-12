@@ -6,7 +6,7 @@ import {data as breakfastIdeas} from '../data/breakfast-idea.json'
 import {data as questions} from '../data/questions.json'
 import graphs from '../data/graphs.json'
 
-function randomIndex(n: any[]): number {
+export function randomIndex(n: any[]): number {
     return Math.floor(Math.random() * n.length)
 }
 
