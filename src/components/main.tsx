@@ -55,8 +55,10 @@ export class Game extends Component<any, GameState> {
                 running: false,
                 seconds: config.secondsPerSlide,
             })
+            this.myInterval && clearInterval(this.myInterval)
+        } else if (event.keyCode === 32) {
+            this.next()
         }
-        this.myInterval && clearInterval(this.myInterval)
     }
 
     componentWillMount() {
@@ -82,7 +84,6 @@ export class Game extends Component<any, GameState> {
     }
 
     run() {
-        const {config} = this.state
         const potentialTitleSuffixes = [
             ' - lessons from real life',
             ' - my testament',
@@ -98,7 +99,7 @@ export class Game extends Component<any, GameState> {
             running: true
         })
         this.myInterval = setInterval(() => {
-            const {seconds, slideNum} = this.state
+            const {seconds} = this.state
 
             if (seconds > 0) {
                 this.setState(({seconds}) => ({
@@ -106,24 +107,7 @@ export class Game extends Component<any, GameState> {
                 }))
             }
             if (seconds === 1) {
-                if (slideNum < this.state.slidesPerDeck) {
-                    const imgGetter = slideNum % 2 !== 0 ? randomGeneratorClient.randomImageSrc : randomGeneratorClient.randomGraph
-                    this.setState({
-                        imgURL: imgGetter(),
-                        imgAlt: randomGeneratorClient.randomPhrase(),
-                        title: imgGetter ===  randomGeneratorClient.randomImageSrc ? randomGeneratorClient.randomSlideTitle() : '',
-                        seconds: config.secondsPerSlide,
-                        slideNum: slideNum + 1
-                    })
-                } else {
-                    this.setState({
-                        slideNum: 0,
-                        started: false,
-                        running: false
-                    })
-                    this.myInterval && clearInterval(this.myInterval)
-                }
-
+                this.next()
             }
         }, 1000)
     }
@@ -139,6 +123,27 @@ export class Game extends Component<any, GameState> {
             this.setState({
                 running: true
             })
+        }
+    }
+
+    next() {
+        const {slideNum, config} = this.state
+        if (slideNum < this.state.slidesPerDeck) {
+            const imgGetter = slideNum % 2 !== 0 ? randomGeneratorClient.randomImageSrc : randomGeneratorClient.randomGraph
+            this.setState({
+                imgURL: imgGetter(),
+                imgAlt: randomGeneratorClient.randomPhrase(),
+                title: imgGetter === randomGeneratorClient.randomImageSrc ? randomGeneratorClient.randomSlideTitle() : '',
+                seconds: config.secondsPerSlide,
+                slideNum: slideNum + 1
+            })
+        } else {
+            this.setState({
+                slideNum: 0,
+                started: false,
+                running: false
+            })
+            this.myInterval && clearInterval(this.myInterval)
         }
     }
 
@@ -158,10 +163,11 @@ export class Game extends Component<any, GameState> {
                     <Col>
                         <Form.Group controlId="formBasicRange">
                             <Form.Label>Seconds per slide</Form.Label>
-                            <Form.Control type="range" value={this.state.config.secondsPerSlide} min='5' max='60' onChange={e =>
-                                this.setState({
-                                    seconds: parseInt(e.target.value),
-                                })}/>
+                            <Form.Control type="range" value={this.state.config.secondsPerSlide} min='5' max='60'
+                                          onChange={e =>
+                                              this.setState({
+                                                  seconds: parseInt(e.target.value),
+                                              })}/>
                             <Form.Control value={this.state.config.secondsPerSlide}/>
                         </Form.Group>
                     </Col>
@@ -185,10 +191,13 @@ export class Game extends Component<any, GameState> {
 
         const runningGame = <div style={{'width': '100%'}}>
             {this.state.imgURL &&
-            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%'}} onClick={this.toggle}/>}
+            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%', 'overflow': 'hidden'}} onClick={this.toggle}/>}
             {this.state.slideNum % 4 < 3 &&
             <div className="slide-title" style={
-                {'fontSize': this.state.slideNum === 0 ? '12.7rem' : '12.5rem', 'top': this.state.slideNum === 0 ? '0' : '10%' }}>{this.state.title}</div>}
+                {
+                    'fontSize': this.state.slideNum === 0 ? '12.7rem' : '12.5rem',
+                    'top': this.state.slideNum === 0 ? '0' : '10%'
+                }}>{this.state.title}</div>}
             <div className="remaining-seconds" style={
                 {'WebkitTextFillColor': remainingSecondsColor}
             }>{this.state.seconds}</div>
