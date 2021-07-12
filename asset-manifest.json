@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/battledecks-generator/static/css/main.d74d67c5.chunk.css",
-    "main.js": "/battledecks-generator/static/js/main.dada9d76.chunk.js",
-    "main.js.map": "/battledecks-generator/static/js/main.dada9d76.chunk.js.map",
-    "runtime-main.js": "/battledecks-generator/static/js/runtime-main.0b6d4823.js",
-    "runtime-main.js.map": "/battledecks-generator/static/js/runtime-main.0b6d4823.js.map",
+    "main.js": "/battledecks-generator/static/js/main.041ad48c.chunk.js",
+    "main.js.map": "/battledecks-generator/static/js/main.041ad48c.chunk.js.map",
+    "runtime-main.js": "/battledecks-generator/static/js/runtime-main.37c789e3.js",
+    "runtime-main.js.map": "/battledecks-generator/static/js/runtime-main.37c789e3.js.map",
     "static/css/2.150d169a.chunk.css": "/battledecks-generator/static/css/2.150d169a.chunk.css",
-    "static/js/2.bdd3f5cb.chunk.js": "/battledecks-generator/static/js/2.bdd3f5cb.chunk.js",
-    "static/js/2.bdd3f5cb.chunk.js.map": "/battledecks-generator/static/js/2.bdd3f5cb.chunk.js.map",
-    "static/js/3.2a2fde12.chunk.js": "/battledecks-generator/static/js/3.2a2fde12.chunk.js",
-    "static/js/3.2a2fde12.chunk.js.map": "/battledecks-generator/static/js/3.2a2fde12.chunk.js.map",
+    "static/js/2.06bf4978.chunk.js": "/battledecks-generator/static/js/2.06bf4978.chunk.js",
+    "static/js/2.06bf4978.chunk.js.map": "/battledecks-generator/static/js/2.06bf4978.chunk.js.map",
+    "static/js/3.c52e8f2e.chunk.js": "/battledecks-generator/static/js/3.c52e8f2e.chunk.js",
+    "static/js/3.c52e8f2e.chunk.js.map": "/battledecks-generator/static/js/3.c52e8f2e.chunk.js.map",
     "index.html": "/battledecks-generator/index.html",
     "static/css/2.150d169a.chunk.css.map": "/battledecks-generator/static/css/2.150d169a.chunk.css.map",
     "static/css/main.d74d67c5.chunk.css.map": "/battledecks-generator/static/css/main.d74d67c5.chunk.css.map",
-    "static/js/2.bdd3f5cb.chunk.js.LICENSE.txt": "/battledecks-generator/static/js/2.bdd3f5cb.chunk.js.LICENSE.txt"
+    "static/js/2.06bf4978.chunk.js.LICENSE.txt": "/battledecks-generator/static/js/2.06bf4978.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b6d4823.js",
+    "static/js/runtime-main.37c789e3.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.bdd3f5cb.chunk.js",
+    "static/js/2.06bf4978.chunk.js",
     "static/css/main.d74d67c5.chunk.css",
-    "static/js/main.dada9d76.chunk.js"
+    "static/js/main.041ad48c.chunk.js"
   ]
 }
