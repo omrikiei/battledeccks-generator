@@ -107,7 +107,7 @@ export class Game extends Component<any, GameState> {
             }
             if (seconds === 1) {
                 if (slideNum < this.state.slidesPerDeck) {
-                    const imgGetter = slideNum !== 0 && slideNum % 2 === 0 ? randomGeneratorClient.randomImageSrc : randomGeneratorClient.randomGraph
+                    const imgGetter = slideNum % 2 !== 0 ? randomGeneratorClient.randomImageSrc : randomGeneratorClient.randomGraph
                     this.setState({
                         imgURL: imgGetter(),
                         imgAlt: randomGeneratorClient.randomPhrase(),
