@@ -1,4 +1,4 @@
-import {RandomWordGeneratorClient} from "../utils/random-generator-client";
+import {RandomWordGenerator} from "../utils/random-generator";
 import React, {Component} from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
@@ -6,11 +6,16 @@ import Card from 'react-bootstrap/Card'
 import Form from 'react-bootstrap/Form'
 import Row from 'react-bootstrap/Form'
 import Col from 'react-bootstrap/FormGroup'
+import ReactGA from 'react-ga';
 
-const randomGeneratorClient = new RandomWordGeneratorClient()
+ReactGA.initialize('G-DFWFH1G333');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
+const randomGeneratorClient = new RandomWordGenerator()
 
 interface Config {
     secondsPerSlide: number
+    slidesPerDeck: number
 }
 
 const DEFAULT_CONFIG = {
@@ -43,18 +48,20 @@ export class Game extends Component<any, GameState> {
 
     escFunction(event: KeyboardEvent) {
         if (event.keyCode === 27) {
+            const config = this.state.config
             this.setState({
                 slideNum: 0,
                 started: false,
-                running: false
+                running: false,
+                seconds: config.secondsPerSlide,
             })
         }
+        this.myInterval && clearInterval(this.myInterval)
     }
 
     componentWillMount() {
         this.setState({
             config: DEFAULT_CONFIG,
-            imgURL: randomGeneratorClient.randomImageSrc(),
             imgAlt: randomGeneratorClient.randomPhrase(),
             title: randomGeneratorClient.randomSlideTitle(),
             seconds: DEFAULT_CONFIG.secondsPerSlide,
@@ -75,11 +82,16 @@ export class Game extends Component<any, GameState> {
     }
 
     run() {
+        const {config} = this.state
         this.setState({
-            started: true
+            started: true,
+            title: randomGeneratorClient.randomDeckTitle() + ' - a ' + config.slidesPerDeck + ' slides presentation',
+            imgURL: '',
+            slideNum: 0,
+            running: true
         })
         this.myInterval = setInterval(() => {
-            const {seconds, slideNum, config} = this.state
+            const {seconds, slideNum} = this.state
 
             if (seconds > 0) {
                 this.setState(({seconds}) => ({
@@ -88,10 +100,11 @@ export class Game extends Component<any, GameState> {
             }
             if (seconds === 1) {
                 if (slideNum < this.state.slidesPerDeck) {
+                    const imgGetter = slideNum !== 0 && slideNum % 2 === 0 ? randomGeneratorClient.randomImageSrc : randomGeneratorClient.randomGraph
                     this.setState({
-                        imgURL: randomGeneratorClient.randomImageSrc(),
+                        imgURL: imgGetter(),
                         imgAlt: randomGeneratorClient.randomPhrase(),
-                        title: randomGeneratorClient.randomSlideTitle(),
+                        title: imgGetter ===  randomGeneratorClient.randomImageSrc ? randomGeneratorClient.randomSlideTitle() : '',
                         seconds: config.secondsPerSlide,
                         slideNum: slideNum + 1
                     })
@@ -138,11 +151,11 @@ export class Game extends Component<any, GameState> {
                     <Col>
                         <Form.Group controlId="formBasicRange">
                             <Form.Label>Seconds per slide</Form.Label>
-                            <Form.Control type="range" value={this.state.seconds} min='5' max='60' onChange={e =>
+                            <Form.Control type="range" value={this.state.config.secondsPerSlide} min='5' max='60' onChange={e =>
                                 this.setState({
                                     seconds: parseInt(e.target.value),
                                 })}/>
-                            <Form.Control value={this.state.seconds}/>
+                            <Form.Control value={this.state.config.secondsPerSlide}/>
                         </Form.Group>
                     </Col>
                     <Col>
@@ -164,12 +177,15 @@ export class Game extends Component<any, GameState> {
         </div>
 
         const runningGame = <div style={{'width': '100%'}}>
-            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%'}} onClick={this.toggle}/>
-            {this.state.slideNum % 4 < 3 && <div className="slide-title">{this.state.title}</div>}
+            {this.state.imgURL &&
+            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%'}} onClick={this.toggle}/>}
+            {this.state.slideNum % 4 < 3 &&
+            <div className="slide-title" style={
+                {'fontSize': this.state.slideNum === 0 ? '13rem' : '12.5rem', 'top': this.state.slideNum === 0 ? '0' : '10%' }}>{this.state.title}</div>}
             <div className="remaining-seconds" style={
                 {'WebkitTextFillColor': remainingSecondsColor}
             }>{this.state.seconds}</div>
-            <div className="slide-num">{this.state.slideNum}</div>
+            {this.state.slideNum !== 0 && <div className="slide-num">{this.state.slideNum}</div>}
         </div>
         return (
             <div className="App">
