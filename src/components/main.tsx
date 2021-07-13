@@ -191,11 +191,11 @@ export class Game extends Component<any, GameState> {
 
         const runningGame = <div style={{'width': '100%'}}>
             {this.state.imgURL &&
-            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%', 'overflow': 'hidden'}} onClick={this.toggle}/>}
+            <img src={this.state.imgURL} alt={this.state.imgAlt} style={{'width': '100%', 'overflow': 'hidden', 'height': '100vh'}} onClick={this.toggle}/>}
             {this.state.slideNum % 4 < 3 &&
             <div className="slide-title" style={
                 {
-                    'fontSize': this.state.slideNum === 0 ? '12.7rem' : '12.5rem',
+                    'fontSize': this.state.slideNum === 0 ? '350%' : '300%',
                     'top': this.state.slideNum === 0 ? '0' : '10%'
                 }}>{this.state.title}</div>}
             <div className="remaining-seconds" style={
