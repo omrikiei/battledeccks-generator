@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/battledecks-generator/static/css/main.512ef73d.chunk.css",
-    "main.js": "/battledecks-generator/static/js/main.10b06b57.chunk.js",
-    "main.js.map": "/battledecks-generator/static/js/main.10b06b57.chunk.js.map",
-    "runtime-main.js": "/battledecks-generator/static/js/runtime-main.37c789e3.js",
-    "runtime-main.js.map": "/battledecks-generator/static/js/runtime-main.37c789e3.js.map",
-    "static/css/2.150d169a.chunk.css": "/battledecks-generator/static/css/2.150d169a.chunk.css",
-    "static/js/2.06bf4978.chunk.js": "/battledecks-generator/static/js/2.06bf4978.chunk.js",
-    "static/js/2.06bf4978.chunk.js.map": "/battledecks-generator/static/js/2.06bf4978.chunk.js.map",
-    "static/js/3.c52e8f2e.chunk.js": "/battledecks-generator/static/js/3.c52e8f2e.chunk.js",
-    "static/js/3.c52e8f2e.chunk.js.map": "/battledecks-generator/static/js/3.c52e8f2e.chunk.js.map",
-    "index.html": "/battledecks-generator/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/battledecks-generator/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.512ef73d.chunk.css.map": "/battledecks-generator/static/css/main.512ef73d.chunk.css.map",
-    "static/js/2.06bf4978.chunk.js.LICENSE.txt": "/battledecks-generator/static/js/2.06bf4978.chunk.js.LICENSE.txt"
+    "main.css": "/battledecks/static/css/main.512ef73d.chunk.css",
+    "main.js": "/battledecks/static/js/main.e46affd9.chunk.js",
+    "main.js.map": "/battledecks/static/js/main.e46affd9.chunk.js.map",
+    "runtime-main.js": "/battledecks/static/js/runtime-main.2aae80ae.js",
+    "runtime-main.js.map": "/battledecks/static/js/runtime-main.2aae80ae.js.map",
+    "static/css/2.150d169a.chunk.css": "/battledecks/static/css/2.150d169a.chunk.css",
+    "static/js/2.06bf4978.chunk.js": "/battledecks/static/js/2.06bf4978.chunk.js",
+    "static/js/2.06bf4978.chunk.js.map": "/battledecks/static/js/2.06bf4978.chunk.js.map",
+    "static/js/3.c52e8f2e.chunk.js": "/battledecks/static/js/3.c52e8f2e.chunk.js",
+    "static/js/3.c52e8f2e.chunk.js.map": "/battledecks/static/js/3.c52e8f2e.chunk.js.map",
+    "index.html": "/battledecks/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/battledecks/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.512ef73d.chunk.css.map": "/battledecks/static/css/main.512ef73d.chunk.css.map",
+    "static/js/2.06bf4978.chunk.js.LICENSE.txt": "/battledecks/static/js/2.06bf4978.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37c789e3.js",
+    "static/js/runtime-main.2aae80ae.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.06bf4978.chunk.js",
     "static/css/main.512ef73d.chunk.css",
-    "static/js/main.10b06b57.chunk.js"
+    "static/js/main.e46affd9.chunk.js"
   ]
 }
