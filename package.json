@@ -1,6 +1,6 @@
 {
   "name": "battledecks-generator",
-  "homepage": "https://omrikiei.github.io/battledecks-generator",
+  "homepage": "https://omrikiei.github.io/battledecks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
